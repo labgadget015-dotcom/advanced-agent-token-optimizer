@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/labgadget015-dotcom/advanced-agent-token-optimizer)](https://github.com/labgadget015-dotcom/advanced-agent-token-optimizer/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/labgadget015-dotcom/advanced-agent-token-optimizer)](https://github.com/labgadget015-dotcom/advanced-agent-token-optimizer/issues) [![CI/CD](https://github.com/labgadget015-dotcom/advanced-agent-token-optimizer/actions/workflows/python-app.yml/badge.svg)](https://github.com/labgadget015-dotcom/advanced-agent-token-optimizer/actions)
 
 An advanced autonomous agent framework with sophisticated token budget optimization and strategic execution capabilities. This project implements a comprehensive agent system designed for persistent, efficient, and strategic web automation tasks.
 
